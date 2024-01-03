@@ -15,14 +15,14 @@
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
-- 👩🏻‍💻 You can take a look at all of my open-source projects here on **[GitHub](https://github.com/sarath-pm)](https://github.com/TechnoCraftre)**
+- 👩🏻‍💻 You can take a look at all of my open-source projects here on **[[GitHub](https://github.com/TechnoCraftre)]**
 
 - 💬 Interested in the in learning more about my my projects? Let's discuss.😉
 
 
 <br>
 
-## <![PjrGIF](https://github.com/TechnoCraftre/TechnoCraftre/assets/44519033/bf620ced-7abd-4523-8656-9d51a9b3bc2c) width ="25"><b> Skills</b>
+###<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
 
