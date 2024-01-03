@@ -17,7 +17,7 @@
 
 - 👩🏻‍💻 You can take a look at all of my open-source projects here on **[[GitHub](https://github.com/TechnoCraftre)]**
 
-- 💬 Interested in the in learning more about my my projects? Let's discuss.😉
+- 💬 Interested in learning more about my my projects? Let's discuss.😉
 
 
 <br>
@@ -145,8 +145,7 @@
 
 <p align="center">
 <a href="www.linkedin.com/in/rutuja-dalvi-developer" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="sarath-p-m" height="40" width="45" /></a>
-
-&nbsp;<a href="mailto:drutuja3748@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="drutuja3748@gmail.com" width="40" /></a>      
+<a href="mailto:drutuja3748@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="drutuja3748@gmail.com" width="40" /></a>      
 </a>
 
 
