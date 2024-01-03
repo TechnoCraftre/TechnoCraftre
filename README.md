@@ -1,10 +1,10 @@
 
 
-<h1 align="center">Greetings</h1>
+<h1 align="center">Greetings, You're on Rutuja's Github Profile</h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C5A1F7&random=false&width=435&lines=Crafting+code+and+building+dreams%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=C5A1F7&center=true&vCenter=true&random=false&width=670&height=150&lines=Crafting+code+and+building+dreams%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
 
 </div>
 
