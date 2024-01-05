@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Greetings, You're on Rutuja's Github Profile</h1>
+<h1 align="center">Greetings, You're on Rutuja's Github </h1>
 
 <div align="center">
 
@@ -144,7 +144,7 @@
 <br>
 
 <p align="center">
-<a href="www.linkedin.com/in/rutuja-dalvi-developer" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="sarath-p-m" height="40" width="45" /></a>
+<a href="www.linkedin.com/in/rutuja-dalvi-developer" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" height="40" width="45" /></a>
 <a href="mailto:drutuja3748@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="drutuja3748@gmail.com" width="40" /></a>      
 </a>
 
