@@ -11,7 +11,7 @@
 
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"><b>About Me</b>
 
-- 🔭 `Web 3 Developer`
+- 🔭 `Blockchain Developer` Ready to take up challenges in Web 3!
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
