@@ -15,7 +15,7 @@
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
-- 👩🏻‍💻 You can take a look at all of my open-source projects here on **[[GitHub](https://github.com/TechnoCraftre)]**
+- 👩🏻‍💻 You can take a look at all of my projects here on **[[GitHub](https://github.com/TechnoCraftre)]**
 
 - 💬 Interested in learning more about my projects? Let's discuss.😉
 
