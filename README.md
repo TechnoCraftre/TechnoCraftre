@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=A1F7C5&center=true&vCenter=true&width=700&height=150&lines= Automating+deployments+and+scaling+systems+with+DevOps+magic!;Empowering+innovation+through+Cloud+and+Automation.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=A1F7C5&center=true&vCenter=true&width=700&height=150&lines=Automating+deployments+and+scaling+systems+with+DevOps+magic!;Empowering+innovation+through+Cloud+and+Automation.)](https://git.io/typing-svg)
 
 </div>
 
