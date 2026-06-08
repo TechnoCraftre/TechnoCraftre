@@ -8,13 +8,14 @@
 
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
 
-- 🚀 Building secure, scalable, and observable cloud platforms.
-- ⚙️ Automating infrastructure and deployments with reliability by design.
-- ☁️ Working with AWS, Kubernetes, Docker, Terraform, and Linux ecosystems.
-- 🔒 Embedding security across the software delivery lifecycle through DevSecOps practices.
-- 📊 Passionate about monitoring, observability, incident response, and platform engineering.
-- 🌍 Open to remote opportunities in DevOps, DevSecOps, SRE, and Cloud Engineering.
-- 💬 Let's talk CI/CD, Containers, Cloud Architecture, Infrastructure as Code, and Automation.
+<ul align="left">
+  <li>DevOps Engineer passionate about building scalable, reliable, and secure systems.</li>
+  <li>Automating everything from CI/CD pipelines to cloud infrastructure.</li>
+  <li>Building secure, scalable, and observable cloud platforms.</li>
+  <li>Embedding security throughout the software delivery lifecycle.</li>
+  <li>Open to remote opportunities in DevOps, DevSecOps, SRE, and Cloud Engineering.</li>
+  <li>Let's talk CI/CD, Containers, Cloud, Infrastructure as Code, and Security.</li>
+</ul>
 
 ---
 
