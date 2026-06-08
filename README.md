@@ -6,16 +6,18 @@
 
 ---
 
+<div align="left">
+
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
 
-<ul align="center">
-  <li>DevOps Engineer passionate about building scalable, reliable, and secure systems.</li>
-  <li>Automating everything from CI/CD pipelines to cloud infrastructure.</li>
-  <li>Building secure, scalable, and observable cloud platforms.</li>
-  <li>Embedding security throughout the software delivery lifecycle.</li>
-  <li>Open to remote opportunities in DevOps, DevSecOps, SRE, and Cloud Engineering.</li>
-  <li>Let's talk CI/CD, Containers, Cloud, Infrastructure as Code, and Security.</li>
-</ul>
+- DevOps Engineer passionate about building scalable, reliable, and secure systems.
+- Automating everything from CI/CD pipelines to cloud infrastructure.
+- Building secure, scalable, and observable cloud platforms.
+- Embedding security throughout the software delivery lifecycle.
+- Open to remote opportunities in DevOps, DevSecOps, SRE, and Cloud Engineering.
+- Let's talk CI/CD, Containers, Cloud, Infrastructure as Code, and Security.
+
+</div>
 
 ---
 
