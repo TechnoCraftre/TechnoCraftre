@@ -7,10 +7,10 @@
 ---
 
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"><b> About Me</b> 
-DevOps Engineer passionate about building scalable, reliable, and secure systems. 
-Automating everything from build pipelines to infrastructure. 
-I’m open to remote opportunities in **DevOps, DevSecOps, SRE, Cloud Engineering**. 
-Let's talk CI/CD, Containers, Cloud, Infrastructure as Code, Security.
+-DevOps Engineer passionate about building scalable, reliable, and secure systems. 
+-Automating everything from build pipelines to infrastructure. 
+-I’m open to remote opportunities in **DevOps, DevSecOps, SRE, Cloud Engineering**. 
+-Let's talk CI/CD, Containers, Cloud, Infrastructure as Code, Security.
 
 ---
 
