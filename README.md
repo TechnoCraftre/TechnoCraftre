@@ -2,8 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=A1F7C5&center=true&vCenter=true&width=900&height=150&lines=Building+Secure%2C+Scalable+%26+Observable+Cloud+Platforms;Automating+Infrastructure+with+Reliability+and+Security+by+Design;Embedding+Security+Across+the+Software+Delivery+Lifecycle)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=A1F7C5&center=true&vCenter=true&width=850&height=150&lines=Cloud+Engineering+%7C+DevOps+%7C+DevSecOps;Building+Secure%2C+Scalable+%26+Observable+Platforms;Automating+Infrastructure+from+Code+to+Production)](https://git.io/typing-svg)
 
 ---
 
