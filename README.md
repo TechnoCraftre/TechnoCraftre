@@ -1,11 +1,8 @@
 <h1 align="center">Greetings, You're on Rutuja's GitHub</h1>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=A1F7C5&center=true&vCenter=true&width=900&height=150&lines=Building+secure%2C+scalable%2C+and+observable+cloud+platforms.;Automating+infrastructure+with+reliability+and+security+by+design.;Embedding+security+into+every+stage+of+the+software+delivery+lifecycle.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=A1F7C5&center=true&vCenter=true&width=900&height=150&lines=Building+Secure%2C+Scalable+%26+Observable+Cloud+Platforms;Automating+Infrastructure+with+Reliability+and+Security+by+Design;Embedding+Security+Across+the+Software+Delivery+Lifecycle)](https://git.io/typing-svg)
 </div>
-
 ---
 
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"><b> About Me</b>
