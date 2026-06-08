@@ -15,7 +15,7 @@
 
 ---
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"><b> Skills</b>
 
 <p align="center">
 
