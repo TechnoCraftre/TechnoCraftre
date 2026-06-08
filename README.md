@@ -8,7 +8,7 @@
 
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
 
-<ul align="left">
+<ul align="center">
   <li>DevOps Engineer passionate about building scalable, reliable, and secure systems.</li>
   <li>Automating everything from CI/CD pipelines to cloud infrastructure.</li>
   <li>Building secure, scalable, and observable cloud platforms.</li>
