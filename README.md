@@ -8,10 +8,10 @@
 
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"><b> About Me</b>
 
-- `DevOps Engineer` passionate about building scalable, reliable, and secure systems.  
-- Automating everything from build pipelines to infrastructure.  
-- I’m open to remote opportunities in **DevOps, DevSecOps, SRE, Cloud Engineering**.  
-- Let's talk CI/CD, Containers, Cloud, Infrastructure as Code, Security.  
+`DevOps Engineer` passionate about building scalable, reliable, and secure systems.  
+Automating everything from build pipelines to infrastructure.  
+I’m open to remote opportunities in **DevOps, DevSecOps, SRE, Cloud Engineering**.  
+Let's talk CI/CD, Containers, Cloud, Infrastructure as Code, Security.  
 
 ---
 
@@ -29,6 +29,7 @@
 ### DevOps & CI/CD Tools
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
