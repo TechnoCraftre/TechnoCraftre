@@ -1,8 +1,8 @@
-<h1 align="center">👋 Greetings, You're on Rutuja's GitHub</h1>
+<h1 align="center">Greetings, You're on Rutuja's GitHub</h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=A1F7C5&center=true&vCenter=true&width=720&height=150&lines=Automating+deployments+and+scaling+systems+with+DevOps!;Empowering+innovation+through+Cloud+and+Automation.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=A1F7C5&center=true&vCenter=true&width=900&height=150&lines=Building+secure%2C+scalable%2C+and+observable+cloud+platforms.;Automating+infrastructure+with+reliability+and+security+by+design.;Embedding+security+into+every+stage+of+the+software+delivery+lifecycle.)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,9 +12,8 @@
 
 - `DevOps Engineer` passionate about building scalable, reliable, and secure systems.  
 - Automating everything from build pipelines to infrastructure.  
-- I’m open to remote opportunities in **DevOps / Cloud Engineering**.  
-- Looking forward to collaborating on open source DevOps and Cloud projects.  
-- Let's talk CI/CD, Containers, Cloud, or Infrastructure as Code.  
+- I’m open to remote opportunities in **DevOps, DevSecOps, SRE, Cloud Engineering**.  
+- Let's talk CI/CD, Containers, Cloud, Infrastructure as Code, Security.  
 
 ---
 
